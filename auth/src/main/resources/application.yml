@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://ecommerce:0WL2JntbH3PgPe9N@cluster0.9k5byqk.mongodb.net/?retryWrites=true&w=majority
+      database: edb
